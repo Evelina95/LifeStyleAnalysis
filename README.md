@@ -13,7 +13,7 @@ The analysis combines **Python for data processing**, **SQL for data querying**,
 | Category | Tools Used |
 |-----------|-------------|
 | Data Processing | Python (pandas) |
-| Data Querying | SQL (PostgreSQL / SQLite) |
+| Data Querying | SQL (MySQL) |
 | Data Visualization | Power BI |
 
 ### Project Structure
