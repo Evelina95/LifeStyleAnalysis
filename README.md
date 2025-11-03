@@ -18,4 +18,25 @@ The analysis combines **Python for data processing**, **SQL for data querying**,
 
 ### Project Structure
 lifestyle-analysis/
+🧹 Data Cleaning
+-
+The data_cleaning.py script prepares raw lifestyle data for analysis.
+It ensures consistency, accuracy, and reliability of the dataset before further processing or visualization.
+
+- Loads and inspects two CSV datasets 
+- Normalizes column names
+- Checks and reports missing values
+- Changes column names for consistency
+- Removes duplicates
+- Rounds the age column to the nearest integer
+- Saves cleaned data to new CSV files
+![Data cleaning example](LifeStyleAnalysis/images/Ekrano%20kopija%202025-10-30%20144226.png)
+
+Data analysis with MYSQL
+-
+
+
+
+
+
 
