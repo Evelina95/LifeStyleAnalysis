@@ -34,6 +34,46 @@ It ensures consistency, accuracy, and reliability of the dataset before further 
 
 Data analysis with MYSQL
 -
+Project Description
+-
+This project analyzes a dataset containing personal information, workout data, and diet data. The goal is to explore patterns in health and fitness behaviors, including:
+
+Workout frequency and type by age, gender, and experience level
+
+Relationships between BMI, body fat, and activity levels
+
+Nutritional intake (calories and macronutrients) in relation to activity
+
+Efficiency of workouts in terms of calories burned
+
+SQL Queries / Analyses
+-
+
+The queries are structured to explore patterns and answer key questions:
+
+1. Workout Frequency by Age Group – Average workouts per week for different age groups.
+
+2. Top Workouts by Gender – Most popular workout types among male and female participants.
+
+3. Physical Stats by Gender – Average age, BMI, and body fat percentage for each gender.
+
+4. Average Daily Macronutrient Intake by Gender – Compare protein, carb, fat, and total calories intake.
+
+5. Activity by Experience Level – How experience affects session duration and calories burned.
+
+6. Protein Intake by Experience Level – Protein to carb & fat ratio based on experience.
+
+7. Workout Frequency vs BMI – How BMI categories relate to training frequency.
+
+8. Calories Burned by Workout Type – Efficiency of each workout type in calories/hour.
+
+9. Workout Frequency vs Daily Calorie Intake – Check if more active people eat more.
+
+10. Activity and Nutrition by Gender – Combined view of activity level, gender, and diet.
+
+11. BMI vs Training Frequency – Average workouts per week by BMI category.
+
+12. Experience Level vs Protein Intake per kg – Are experienced individuals eating more protein?
 
 
 
