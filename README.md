@@ -75,7 +75,7 @@ The queries are structured to explore patterns and answer key questions:
 
 12. Experience Level vs Protein Intake per kg – Are experienced individuals eating more protein?
 
-
+![Ekrano kopija](LifeStyleAnalysis/images/Ekrano%20kopija%202025-11-04%20124045.png)
 
 
 
