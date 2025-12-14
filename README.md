@@ -79,5 +79,7 @@ The queries are structured to explore patterns and answer key questions:
 
 ## Power BI visualization 
 
+ Let’s dive into lifestyle through visualization.
+
 
 
