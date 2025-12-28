@@ -81,5 +81,7 @@ The queries are structured to explore patterns and answer key questions:
 
  Let’s dive into lifestyle through visualization.
 
+ ![Ekrano kopija](https://raw.githubusercontent.com/Evelina95/LifeStyleAnalysis/main/LifeStyleAnalysis/images/Ekrano%20kopija%202025-12-28%20144740.png)
+
 
 
