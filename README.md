@@ -83,5 +83,30 @@ The queries are structured to explore patterns and answer key questions:
 
  ![Ekrano kopija](https://raw.githubusercontent.com/Evelina95/LifeStyleAnalysis/main/LifeStyleAnalysis/images/Ekrano%20kopija%202025-12-28%20144740.png)
 
+ ## Business insights 
+## 1. The most active age group is 46–60 years old
+
+This age group demonstrates the highest workout frequency and overall activity levels. However, across all age groups, the average workout frequency remains consistent at approximately 3 sessions per week, indicating stable engagement in physical activity regardless of age.
+
+---
+
+## 2. Strength training is the most popular and most effective workout type
+
+Strength workouts are the most frequently chosen activity and result in the highest calorie expenditure. This suggests that users prioritize workouts that deliver measurable physical benefits and efficient calorie burn.
+
+---
+
+## 3. Protein intake is consistent across genders
+
+Both men and women consume similar amounts of protein, regardless of how often they work out. This indicates that protein consumption habits are influenced more by general nutrition patterns than by training frequency.
+
+---
+
+## 4. Daily calorie balance suggests a focus on health, not weight loss
+
+On average, people consume around 2000 kcal per day and burn approximately 1000 kcal through activity. This pattern reflects a maintenance-oriented lifestyle, where the goal is overall health and well‑being rather than active weight loss.
+
+ 
+
 
 
